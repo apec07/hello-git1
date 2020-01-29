@@ -10,6 +10,7 @@ public class Test1 {
 		FileReader fr =null;
 		
 		try {
+			// test 
 			 file = new File("aaa.txt");
 			// System.out.println(file.canRead());
 			 fr = new FileReader(file);
